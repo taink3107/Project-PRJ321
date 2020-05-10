@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="mssql-jdbc-7.2.2.jre81" level="project" />
+    <orderEntry type="library" name="WEB-INF5" level="project" />
+    <orderEntry type="library" name="mssql-jdbc-7.2.2.jre811" level="project" />
+    <orderEntry type="library" name="WEB-INF7" level="project" />
+    <orderEntry type="library" name="WEB-INF12" level="project" />
+    <orderEntry type="library" name="WEB-INF4" level="project" />
+    <orderEntry type="library" name="WEB-INF8" level="project" />
+    <orderEntry type="library" name="WEB-INF" level="project" />
+    <orderEntry type="library" name="lib7" level="project" />
+    <orderEntry type="library" name="lib5" level="project" />
+    <orderEntry type="library" name="WEB-INF1" level="project" />
+    <orderEntry type="library" name="WEB-INF10" level="project" />
+    <orderEntry type="library" name="mssql-jdbc-7.2.2.jre89" level="project" />
+    <orderEntry type="library" name="mssql-jdbc-7.2.2.jre83" level="project" />
+    <orderEntry type="library" name="mssql-jdbc-7.2.2.jre82" level="project" />
+    <orderEntry type="library" name="WEB-INF3" level="project" />
+    <orderEntry type="library" name="mssql-jdbc-7.2.2.jre84" level="project" />
+    <orderEntry type="library" name="mssql-jdbc-7.2.2.jre810" level="project" />
+    <orderEntry type="library" name="WEB-INF13" level="project" />
+    <orderEntry type="library" name="lib2" level="project" />
+    <orderEntry type="library" name="mssql-jdbc-7.2.2.jre85" level="project" />
+    <orderEntry type="library" name="mssql-jdbc-7.2.2.jre8" level="project" />
+    <orderEntry type="library" name="mssql-jdbc-7.2.2.jre86" level="project" />
+    <orderEntry type="library" name="mssql-jdbc-7.2.2.jre88" level="project" />
+    <orderEntry type="library" name="WEB-INF2" level="project" />
+    <orderEntry type="library" name="WEB-INF6" level="project" />
+    <orderEntry type="library" name="mssql-jdbc-7.2.2.jre87" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="WEB-INF11" level="project" />
+    <orderEntry type="library" name="lib8" level="project" />
+    <orderEntry type="library" name="WEB-INF9" level="project" />
+  </component>
+</module>
